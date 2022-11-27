@@ -16,7 +16,7 @@
   font-weight: 600;
 }
 .feedbackPositive {
-    composes: feedbackListItem;
-    color: #ff9732;
-    font-weight: 600;
-  }
+  composes: feedbackListItem;
+  color: #ff9732;
+  font-weight: 600;
+}

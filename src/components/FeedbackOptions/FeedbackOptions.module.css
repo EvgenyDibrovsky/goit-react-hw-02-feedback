@@ -15,17 +15,14 @@
   display: inline-flex;
   justify-content: center;
   align-items: center;
-
   border: none;
   border-radius: 5px;
-
   background-color: #36a6de;
   color: rgb(255, 255, 255);
   font-family: inherit;
   font-size: 18px;
   font-weight: 600;
   line-height: 24px;
-
   height: 48px;
   min-width: 140px;
   transition: transform 250ms linear, box-shadow 250ms linear;

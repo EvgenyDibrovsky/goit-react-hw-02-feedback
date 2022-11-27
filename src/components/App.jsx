@@ -43,6 +43,7 @@ export const App = () => {
         fontSize: 40,
         color: '#010101',
         padding: '0 15px',
+        backgroundColor: '#fdfcf0',
       }}
     >
       <Section title="✍️ Please leave feedback">
